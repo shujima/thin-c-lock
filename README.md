@@ -42,7 +42,7 @@ v1.0.0のファームウェアにおいては、針の色と秒針のスタイ�
 |Down button / 下ボタン| Change Time / 時刻変更|
 |Set button / 設定ボタン| Back to normal operation / 通常動作へ |
 
-# Open source-data and usage / データの公開および利用
+## Open source-data and usage / データの公開および利用
 基板データ（BOM含む）とファームウェアを共に公開しています。
 公序良俗に反しない範囲で自由にお使いいただけます。
 
@@ -55,10 +55,10 @@ https://github.com/shujima/thin-c-lock-firmware
 
 ## Firmware update / ファームウェアアップデート
 
-### Firmware Update / ファームウェアアップデート手順
+### Overview / 概要
 
-thin-C-lock can update the firmware (will be).
-thin-C-lockはファームウェアアップデートが可能となる予定です。
+thin-C-lock can update the firmware via Windows PC.
+thin-C-lockはWindows PCを利用したファームウェアアップデートが可能です。
 
 ### Caution / 注意
 * Firmware Update process is delete all internal data of thin-C-lcok and install new program file.
