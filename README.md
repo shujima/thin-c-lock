@@ -1,3 +1,5 @@
+![IMG_5870](https://github.com/shujima/thin-c-lock/assets/45596573/ac1d35c8-c507-4596-8f91-b74c8c0164cc)
+
 ## Overview / 概要
 
 thin-C-lock is a clock style interior decoration which use thin PCB design technology developped by shujima 
